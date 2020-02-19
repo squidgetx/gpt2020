@@ -2,8 +2,21 @@ body {
   background-color: #eee
 }
 
+iframe {
+  padding-bottom: 1em;
+}
+
+.script {
+  font-family: Courier, serif;
+}
+
 .logo {
   width: 300px;
+  display: block;
+}
+
+.logo_sm {
+  width: 100px;
   display: block;
 }
 
