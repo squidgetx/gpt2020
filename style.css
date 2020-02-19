@@ -1,0 +1,18 @@
+.logo {
+  width: 300px;
+  display: block;
+  padding-top: 2em;
+}
+
+.wrapper {
+  font-family: Helvetica, sans-serif;
+  width: 600px;
+  margin: auto;
+}
+
+.icon {
+  width: 32px;
+  display: inline-block
+}
+  
+
