@@ -1,13 +1,25 @@
+body {
+  background-color: #eee
+}
+
 .logo {
   width: 300px;
   display: block;
-  padding-top: 2em;
+}
+
+.episodes {
+  padding-top: 1em
+}
+.a2a_kit {
+  padding-bottom: 1em;
 }
 
 .wrapper {
   font-family: Helvetica, sans-serif;
   width: 600px;
   margin: auto;
+  background-color: #fff;
+  padding: 3em 6em 1em;
 }
 
 .icon {
