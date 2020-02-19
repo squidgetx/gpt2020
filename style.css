@@ -28,7 +28,8 @@ iframe {
 }
 
 .wrapper {
-  font-family: Helvetica, sans-serif;
+  font-family: 'Heebo', sans-serif;
+
   width: 600px;
   margin: auto;
   background-color: #fff;
