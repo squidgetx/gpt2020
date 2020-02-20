@@ -5,7 +5,7 @@ import os
 import bs4
 
 if __name__ == "__main__":
-    for index in range(50):
+    for index in range(10):
         with urllib.request.urlopen('https://fivethirtyeight.com/politics/features/page/' + str(index + 1) + '#episodes') as response:
             html = response.read()
             soup = bs4.BeautifulSoup(html, 'html.parser')
