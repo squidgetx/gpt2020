@@ -22,12 +22,16 @@ iframe {
 .logo {
   width: 250px;
   display: block;
-
 }
 
 .logo_sm {
   width: 100px;
   display: block;
+}
+
+table {
+  border: none;
+  width: 100%;
 }
 
 .episodes {
@@ -67,4 +71,12 @@ iframe {
 
 .footer {
   font-size: 12px;
+}
+
+h1 {
+  font-size: 20pt;
+}
+
+h2 {
+  font-size: 16pt;
 }
