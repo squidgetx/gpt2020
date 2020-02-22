@@ -14,9 +14,15 @@ iframe {
   font-family: Courier, serif;
 }
 
+.quote {
+  font-family: Courier, serif;
+  font-style: italic;
+}
+
 .logo {
-  width: 300px;
+  width: 250px;
   display: block;
+
 }
 
 .logo_sm {
@@ -49,6 +55,7 @@ iframe {
 .block {
   margin: 0;
   padding: 0;
+  font-weight: bold;
 }
 
 .ticon {
